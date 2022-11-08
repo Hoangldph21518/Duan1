@@ -7,6 +7,9 @@
     top: 70%;
     
   }
+  .trangchu{
+    background: rgb(247, 244, 244);
+  }
   .form_chu{
     position: absolute;
     left: 33%;
@@ -113,6 +116,10 @@
     margin-right: 150px;
     padding-left: 150px;
   }
+  .sp{
+    margin-right: 150px;
+   margin-left: 150px;
+  }
   .chu{
     font-size: 13px;
   }
@@ -173,6 +180,11 @@
   .slick-arrow:hover{
     background: rgb(12, 12, 12);
     color: white;
+  }
+  .ten{
+    text-align: center;
+    margin-top: 10px;
+   font-weight: bold;;
   }
   
  
